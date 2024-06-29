@@ -1,4 +1,6 @@
-## Reversi Game (Hexagon) - Part 5
+## Reversi Game (Hexagon)
+![othello](https://github.com/klally36/Othello/assets/174218325/00ae95a7-0f31-4070-9acf-17960a75bdae)
+
 
 ### Overview
 This project is an extension of the classic board game Reversi, also known as Othello. The game, played on a hexagonal board with polygonal cells, has been further developed with additional features for enhanced gameplay and interaction.
